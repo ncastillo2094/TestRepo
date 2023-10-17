@@ -1,3 +1,5 @@
 Hi, this is just text for fun!
 
 I added another line of text
+
+Let's see when there's a conflict...
